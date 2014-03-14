@@ -1,0 +1,6 @@
+*.xpi
+wget-log
+wget-log.*
+
+startWorking.sh
+deployScriptLinux.sh
