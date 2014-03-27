@@ -4,3 +4,4 @@ wget-log.*
 
 startWorking.sh
 deployScriptLinux.sh
+deployScriptWin.bat
